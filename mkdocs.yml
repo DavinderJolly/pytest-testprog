@@ -1,0 +1,10 @@
+site_name: pytest-testprog
+site_description: a simple plugin to show your test's progress
+site_author: Davinder Jolly
+
+theme: readthedocs
+
+repo_url: https://github.com/DavinderJolly/pytest-testprog
+
+pages:
+- Home: index.md
