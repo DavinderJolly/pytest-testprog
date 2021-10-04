@@ -36,7 +36,7 @@ Requirements
 Installation
 ------------
 
-You can install "pytest-testprog" via `pip`_ from `PyPI`_::
+You can install (after its finished) "pytest-testprog" via `pip`_ from `PyPI`_::
 
     $ pip install pytest-testprog
 
